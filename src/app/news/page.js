@@ -1,8 +1,7 @@
-//our-domain.com/
 
 const NewsPage = ()=>{
     return(
-        <h1>Welcome to NewsPage</h1>
+        <h1>Welcome to News Page</h1>
     )
 }
 
